@@ -44,7 +44,7 @@ public class ploblem01 {
 	        }
 	        return answer;
 	   }
-	public static void main(String[] args) {
+	public static void maint(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println(solution("abcabcabcabcdededededede"));
 	}
